@@ -1,0 +1,7 @@
+project_id = "oozxpfveofgyesuhsihw"
+
+[functions.ocr-process]
+verify_jwt = false
+
+[functions.health-chat]
+verify_jwt = false
